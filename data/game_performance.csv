@@ -1,0 +1,7 @@
+date,player_id,player_name,points,assists,rebounds,true_shooting_pct,usage_rate,minutes_played
+2025-12-06,P001,Marcus Johnson,18,4,5,0.562,22.1,32
+2025-12-06,P002,Sarah Chen,14,6,3,0.548,18.5,28
+2025-12-06,P003,DeAndre Williams,22,1,8,0.592,25.3,35
+2025-12-12,P001,Marcus Johnson,16,5,4,0.545,20.8,30
+2025-12-12,P002,Sarah Chen,12,7,2,0.535,16.9,25
+2025-12-12,P003,DeAndre Williams,20,2,9,0.575,24.1,33

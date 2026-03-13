@@ -1,0 +1,4 @@
+player_id,player_name,position,jersey_number,height_cm,weight_kg,injury_history,season
+P001,Marcus Johnson,SG,7,198,95,None,2025-26
+P002,Sarah Chen,PG,11,180,75,Minor knee strain (Sep 2025),2025-26
+P003,DeAndre Williams,C,21,215,120,Previous ACL (2023; cleared),2025-26
