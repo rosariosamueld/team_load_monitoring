@@ -12,7 +12,7 @@ This document describes all data sources, fields, and expected formats for the a
 | Field | Type | Description | Example |
 |-------|------|-------------|---------|
 | player_id | String | Unique player identifier | P001 |
-| player_name | String | Full player name | Marcus Johnson |
+| player_name | String | Full player name | Player 1 |
 | position | String | Basketball position | SG, PG, C, etc. |
 | jersey_number | Integer | Jersey number | 7 |
 | height_cm | Integer | Height in centimeters | 198 |

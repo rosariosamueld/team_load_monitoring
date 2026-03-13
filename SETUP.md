@@ -129,7 +129,7 @@ Load_Monitoring/
 
 ## Current Data
 
-**Players:** 3 (Marcus Johnson, Sarah Chen, DeAndre Williams)  
+**Players:** 3 (Player 1, Player 2, Player 3)  
 **Date Range:** December 1-15, 2025 (15 days)  
 **Data Types:** GPS tracking, RPE sessions, wellness surveys, game performance
 
