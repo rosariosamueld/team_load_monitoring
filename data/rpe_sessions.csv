@@ -1,46 +1,46 @@
 date,session_type,session_rpe,duration_min,player_id,player_name,player_rpe,notes
-2025-12-01,Practice,6,90,P001,Marcus Johnson,6,High ball handling drills
-2025-12-01,Practice,6,90,P002,Sarah Chen,6,High ball handling drills
-2025-12-01,Practice,6,90,P003,DeAndre Williams,7,High ball handling drills
-2025-12-02,Practice,7,105,P001,Marcus Johnson,7,Strength & conditioning
-2025-12-02,Practice,7,105,P002,Sarah Chen,6,Strength & conditioning
-2025-12-02,Practice,7,105,P003,DeAndre Williams,8,Strength & conditioning
-2025-12-03,Practice,5,75,P001,Marcus Johnson,5,Light recovery
-2025-12-03,Practice,5,75,P002,Sarah Chen,5,Light recovery
-2025-12-03,Practice,5,75,P003,DeAndre Williams,5,Light recovery
-2025-12-04,Practice,8,120,P001,Marcus Johnson,8,Scrimmage
-2025-12-04,Practice,8,120,P002,Sarah Chen,8,Scrimmage
-2025-12-04,Practice,8,120,P003,DeAndre Williams,9,Scrimmage
-2025-12-05,Practice,6,90,P001,Marcus Johnson,6,Skill development
-2025-12-05,Practice,6,90,P002,Sarah Chen,6,Skill development
-2025-12-05,Practice,6,90,P003,DeAndre Williams,7,Skill development
-2025-12-06,Game,9,48,P001,Marcus Johnson,9,Regular season game
-2025-12-06,Game,9,48,P002,Sarah Chen,9,Regular season game
-2025-12-06,Game,9,48,P003,DeAndre Williams,9,Regular season game
-2025-12-07,Recovery,2,30,P001,Marcus Johnson,2,Off day / light mobility
-2025-12-07,Recovery,2,30,P002,Sarah Chen,2,Off day / light mobility
-2025-12-07,Recovery,2,30,P003,DeAndre Williams,2,Off day / light mobility
-2025-12-08,Practice,6,95,P001,Marcus Johnson,6,Post-game recovery
-2025-12-08,Practice,6,95,P002,Sarah Chen,6,Post-game recovery
-2025-12-08,Practice,6,95,P003,DeAndre Williams,7,Post-game recovery
-2025-12-09,Practice,7,110,P001,Marcus Johnson,7,Conditioning
-2025-12-09,Practice,7,110,P002,Sarah Chen,7,Conditioning
-2025-12-09,Practice,7,110,P003,DeAndre Williams,8,Conditioning
-2025-12-10,Practice,5,80,P001,Marcus Johnson,5,Technical drill
-2025-12-10,Practice,5,80,P002,Sarah Chen,5,Technical drill
-2025-12-10,Practice,5,80,P003,DeAndre Williams,5,Technical drill
-2025-12-11,Practice,8,115,P001,Marcus Johnson,8,Scrimmage
-2025-12-11,Practice,8,115,P002,Sarah Chen,8,Scrimmage
-2025-12-11,Practice,8,115,P003,DeAndre Williams,9,Scrimmage
-2025-12-12,Game,9,42,P001,Marcus Johnson,9,Regular season game
-2025-12-12,Game,9,42,P002,Sarah Chen,9,Regular season game
-2025-12-12,Game,9,42,P003,DeAndre Williams,9,Regular season game
-2025-12-13,Recovery,2,30,P001,Marcus Johnson,2,Off day
-2025-12-13,Recovery,2,30,P002,Sarah Chen,2,Off day
-2025-12-13,Recovery,2,30,P003,DeAndre Williams,2,Off day
-2025-12-14,Practice,6,90,P001,Marcus Johnson,6,Skill drills
-2025-12-14,Practice,6,90,P002,Sarah Chen,6,Skill drills
-2025-12-14,Practice,6,90,P003,DeAndre Williams,7,Skill drills
-2025-12-15,Practice,7,100,P001,Marcus Johnson,7,Game prep
-2025-12-15,Practice,7,100,P002,Sarah Chen,7,Game prep
-2025-12-15,Practice,7,100,P003,DeAndre Williams,8,Game prep
+2025-12-01,Practice,6,90,P001,Player 1,6,High ball handling drills
+2025-12-01,Practice,6,90,P002,Player 2,6,High ball handling drills
+2025-12-01,Practice,6,90,P003,Player 3,7,High ball handling drills
+2025-12-02,Practice,7,105,P001,Player 1,7,Strength & conditioning
+2025-12-02,Practice,7,105,P002,Player 2,6,Strength & conditioning
+2025-12-02,Practice,7,105,P003,Player 3,8,Strength & conditioning
+2025-12-03,Practice,5,75,P001,Player 1,5,Light recovery
+2025-12-03,Practice,5,75,P002,Player 2,5,Light recovery
+2025-12-03,Practice,5,75,P003,Player 3,5,Light recovery
+2025-12-04,Practice,8,120,P001,Player 1,8,Scrimmage
+2025-12-04,Practice,8,120,P002,Player 2,8,Scrimmage
+2025-12-04,Practice,8,120,P003,Player 3,9,Scrimmage
+2025-12-05,Practice,6,90,P001,Player 1,6,Skill development
+2025-12-05,Practice,6,90,P002,Player 2,6,Skill development
+2025-12-05,Practice,6,90,P003,Player 3,7,Skill development
+2025-12-06,Game,9,48,P001,Player 1,9,Regular season game
+2025-12-06,Game,9,48,P002,Player 2,9,Regular season game
+2025-12-06,Game,9,48,P003,Player 3,9,Regular season game
+2025-12-07,Recovery,2,30,P001,Player 1,2,Off day / light mobility
+2025-12-07,Recovery,2,30,P002,Player 2,2,Off day / light mobility
+2025-12-07,Recovery,2,30,P003,Player 3,2,Off day / light mobility
+2025-12-08,Practice,6,95,P001,Player 1,6,Post-game recovery
+2025-12-08,Practice,6,95,P002,Player 2,6,Post-game recovery
+2025-12-08,Practice,6,95,P003,Player 3,7,Post-game recovery
+2025-12-09,Practice,7,110,P001,Player 1,7,Conditioning
+2025-12-09,Practice,7,110,P002,Player 2,7,Conditioning
+2025-12-09,Practice,7,110,P003,Player 3,8,Conditioning
+2025-12-10,Practice,5,80,P001,Player 1,5,Technical drill
+2025-12-10,Practice,5,80,P002,Player 2,5,Technical drill
+2025-12-10,Practice,5,80,P003,Player 3,5,Technical drill
+2025-12-11,Practice,8,115,P001,Player 1,8,Scrimmage
+2025-12-11,Practice,8,115,P002,Player 2,8,Scrimmage
+2025-12-11,Practice,8,115,P003,Player 3,9,Scrimmage
+2025-12-12,Game,9,42,P001,Player 1,9,Regular season game
+2025-12-12,Game,9,42,P002,Player 2,9,Regular season game
+2025-12-12,Game,9,42,P003,Player 3,9,Regular season game
+2025-12-13,Recovery,2,30,P001,Player 1,2,Off day
+2025-12-13,Recovery,2,30,P002,Player 2,2,Off day
+2025-12-13,Recovery,2,30,P003,Player 3,2,Off day
+2025-12-14,Practice,6,90,P001,Player 1,6,Skill drills
+2025-12-14,Practice,6,90,P002,Player 2,6,Skill drills
+2025-12-14,Practice,6,90,P003,Player 3,7,Skill drills
+2025-12-15,Practice,7,100,P001,Player 1,7,Game prep
+2025-12-15,Practice,7,100,P002,Player 2,7,Game prep
+2025-12-15,Practice,7,100,P003,Player 3,8,Game prep
